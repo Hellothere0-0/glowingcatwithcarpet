@@ -1,0 +1,24 @@
+p
+{
+color:rgb(255, 255, 255);
+font-size:x-large;
+font-family: 'Inter Tight', sans-serif;
+}
+body
+{
+
+background-image: url("brown-carpet-visnav.jpg");
+
+}
+h2{
+color: rgb(255, 255, 255);
+font-size: 30pt;
+font-family: 'Inter Tight', sans-serif;
+}
+
+
+table{
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+font-family: 'Inter Tight', sans-serif;
+}
